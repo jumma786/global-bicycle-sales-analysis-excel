@@ -145,6 +145,8 @@ global-bicycle-sales-analysis-excel/
 │   └── dashboard.png
 │
 └── README.md
+---
+
 
 # Future Improvements
 
@@ -156,9 +158,12 @@ Python Automation
 Sales Forecasting
 Machine Learning Integration
 
+---
 # Author
 
 Jumma Mohammad
+
+---
 
 # Conclusion
 
