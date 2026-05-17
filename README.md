@@ -145,20 +145,22 @@ global-bicycle-sales-analysis-excel/
 │   └── dashboard.png
 │
 └── README.md
----
+```
 
+---
 
 # Future Improvements
 
 Future enhancements for this project may include:
 
-Power BI Dashboard Version
-SQL-based Analysis
-Python Automation
-Sales Forecasting
-Machine Learning Integration
+- Power BI Dashboard Version
+- SQL-based Analysis
+- Python Automation
+- Sales Forecasting
+- Machine Learning Integration
 
 ---
+
 # Author
 
 Jumma Mohammad
