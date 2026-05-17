@@ -100,6 +100,9 @@ These features improved reporting and business analysis capabilities.
 - Sales performance varied significantly across regions.
 - Customer purchasing behavior differed across demographic groups.
 
+- <img width="591" height="373" alt="image" src="https://github.com/user-attachments/assets/94149a21-eab8-4e3b-ad7c-497ed1aa159b" />
+
+
 ---
 
 # Dashboard Components
